@@ -1,4 +1,4 @@
-# COSINE Tutti Fruttie
+# COSINE Tutti Fruttie Game
 Created a Match-3 Game featuring the COSINE staff using my own coding knowledge and online tutorials. The game consists of 2 screens (Main menu and gameplay), buttons on the main menu that either start the game or exit the application, a timer, score, and match-3 gampeplay mechanics.
 
 ## How to play
